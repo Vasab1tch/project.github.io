@@ -1,1 +1,46 @@
-
+	h1 {
+		font-size:37px; 
+		font-family: Arial, sans-serif;
+		color: #C3E3CB;
+		font-weight: normal;
+	}
+	h2{
+		font-size:30px; 
+		font-family: Arial, sans-serif;
+		color: white;
+		text-align:center;
+	}
+	p{
+		text-indent: 1.5em;
+		font-size:22px; 
+		font-family: Comic Sans MS, Comic Sans, cursive;
+		color: #4D5E4F;
+		text-align:justify;
+		margin-left:100px;
+		margin-right:100px;
+		margin-top:0px;
+		margin-bottom:0px;
+	}
+   .rightimgp  {
+	opacity: 0.85;
+    float: right;
+	padding: 25px;
+    background: #C9E3D1;
+   }
+   .leftimgp  {
+	opacity: 0.85;
+    float: left;
+	padding: 25px;
+    background: #C9E3D1;
+   }
+   .centerimgp  {
+	opacity: 0.85;
+    float: left;
+	padding: 25px;
+    background: #C9E3D1;
+   }
+   .layer {
+    background: #696969; 
+    padding: 20px;
+	overflow: hidden;	
+   }
