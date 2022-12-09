@@ -32,6 +32,11 @@
     float: left;
 	margin-right: 1%;
    }
+   .leftimgp1  {
+	opacity: 0.85;
+    float: left;
+	margin-right: 5%;
+   }
    .centerimgp  {
 	opacity: 0.85;
     float: left;
@@ -53,12 +58,27 @@
    width:50%;
    }
    a{
-	text-decoration:none;
+   text-decoration:none;
    }
    .w10 {
    width:10%;
    }
    .w90 {
    width:90%;
+   }
+   table, th, td {
+   border: 2px solid #6C6C6C;
+   border-collapse: collapse;
+   background:#A1A1A2;
+   font-size:22px; 
+   font-family: Comic Sans MS, Comic Sans, cursive;
+   color: white;
+   text-align:center;
+   }
+   table{
+   width:100%;
+   }
+   td{
+	   width:20%;
    }
    
