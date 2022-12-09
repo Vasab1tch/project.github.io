@@ -1,8 +1,8 @@
 	h1 {
-		font-size:37px; 
+		font-size:40px; 
 		font-family: Arial, sans-serif;
-		color: #C3E3CB;
-		font-weight: normal;
+		color: white;
+		text-align:center;
 	}
 	h2{
 		font-size:30px; 
@@ -14,10 +14,10 @@
 		text-indent: 1.5em;
 		font-size:22px; 
 		font-family: Comic Sans MS, Comic Sans, cursive;
-		color: #4D5E4F;
+		color: white;
 		text-align:justify;
-		margin-left:100px;
-		margin-right:100px;
+		margin-left:90px;
+		margin-right:90px;
 		margin-top:0px;
 		margin-bottom:0px;
 	}
@@ -30,8 +30,7 @@
    .leftimgp  {
 	opacity: 0.85;
     float: left;
-	padding: 25px;
-    background: #C9E3D1;
+	margin-right: 1%;
    }
    .centerimgp  {
 	opacity: 0.85;
@@ -44,3 +43,22 @@
     padding: 20px;
 	overflow: hidden;	
    }
+   header{
+    background: #696969;
+   }
+   section {
+   display: flex;
+   }
+   .w50 {
+   width:50%;
+   }
+   a{
+	text-decoration:none;
+   }
+   .w10 {
+   width:10%;
+   }
+   .w90 {
+   width:90%;
+   }
+   
